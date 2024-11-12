@@ -8,6 +8,9 @@ Instructuons:
   You can use dotnet --info command to list installed dotnet components on your system.
 
 Usage:
-
-  # dotnet-remove sdk 7.0.101
-  # dotnet-remove runtime 7.0.1
+```console
+  dotnet-remove sdk 7.0.101
+```
+```console
+  dotnet-remove runtime 7.0.1
+```

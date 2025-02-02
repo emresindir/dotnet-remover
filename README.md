@@ -1,5 +1,5 @@
 # dotnet-remover
-This is a bash script for removes specified dotnet sdk and runtimes from the macOS system.
+Dotnet Remover is a bash script for removes specified dotnet sdk and runtimes from the macOS system.
 
 Instructuons: 
   First argument is component of the dotnet distribution. Accepted values [sdk, runtime]
